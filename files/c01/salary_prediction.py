@@ -19,6 +19,14 @@ for year in range(max_years + 1):  # range starts at 0
             f"Reached {current_salary:.2f} DKK after {year} year(s), which is greater than {goal_salary} DKK"
         )
 
+    """
+    HOMEWORK #1
+
+    1. Each iteration: use the `print` function to print the value of `salary_raise`
+    2. Each iteration, if the value of `current_salary` is less than `goal_salary`:
+        use the `print` function to print the result of `goal_salary - current_salary`
+    """
+
     salary_raise = current_salary * yearly_raise_percentage / 100
 
     # read this as "set current_salary to whatever current_salary is plus salary_raise"
