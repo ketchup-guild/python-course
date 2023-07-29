@@ -31,6 +31,18 @@ Back to [README.md](../../README.md).
 
 - Participate in [Advent of Code](https://adventofcode.com) as it comes out
 
+#### Brainstorming project ideas
+
+- Machine Learning / AI
+  - Creating a text generator based on your own / friend's messages ([Markov chain](https://en.wikipedia.org/wiki/Markov_chain))
+  - Image classification ([scikit-learn](https://scikit-learn.org/stable/))
+- Challenges
+  - Old [Advent of Code](https://adventofcode.com)
+- Automating tasks
+- Making a game with [pygame](https://www.pygame.org/wiki/GettingStarted)
+- Making a webserver with [flask](https://flask.palletsprojects.com/en/2.3.x/)
+
+
 ### Resources
 
 - [Introduction to Computer Science using Python](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Introduction-to-Computer-Science-Using-Python.pdf) (PDF)
