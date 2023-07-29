@@ -2,7 +2,7 @@
 
 Back to [README.md](../../README.md).
 
-## Development Enviornment
+## Development Environment
 
 - Install Python
   - MacOS: [Homebrew](https://brew.sh/)
