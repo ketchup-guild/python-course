@@ -32,9 +32,16 @@ for year in range(max_years + 1):
     # Calculate the salary raise for the current year
     salary_raise = current_salary * yearly_raise_percentage / 100
 
+    # Homework #1, Part 1: Display the salary raise for the current year
+    print(f"Salary raise at the end of year {year}: {salary_raise:.2f} DKK")
+
+    # Homework #1, Part 2: Display the difference between the current salary and the target salary
+    if current_salary < goal_salary:
+        difference_to_goal = goal_salary - current_salary
+        print(f"Amount needed to reach the goal: {difference_to_goal:.2f} DKK")
+
     # Update the current salary for the next year by adding the salary raise
-    # Read this as set the variable `current_salary` to whatever the current value of `current_salary` is right now plus the value of `salary_raise`.
-    current_salary = current_salary + salary_raise
+    current_salary += salary_raise
 
 # Check if the target salary was not reached within the specified number of years
 if current_salary < goal_salary:
