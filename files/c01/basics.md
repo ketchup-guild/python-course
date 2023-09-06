@@ -1,6 +1,12 @@
 
 # Basics
 
+How to help yourself:
+
+1. Google and look for StackOverflow
+1. Google and look for official documentation
+1. Ask ChatGPT and critically look at what it offers
+
 ```py
 # lines starting with "#" are comments, they are ignored.
 
