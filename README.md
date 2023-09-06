@@ -8,5 +8,4 @@ This *might* be of use to people outside of that, but consume with caution, migh
 
 1. **Getting Started**
    1. [Setup](./files/c01/setup.md)
-
-
+   2. [Basics](./files/c01/basics.md)
